@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-29T22:47:11 PDT" name="Default suite" finished-at="2023-05-29T22:47:21 PDT" duration-ms="10349">
+    <groups>
+    </groups>
+    <test started-at="2023-05-29T22:47:11 PDT" name="Default test" finished-at="2023-05-29T22:47:21 PDT" duration-ms="10349">
+      <class name="test.LoginTest">
+        <test-method is-config="true" signature="startUp()[pri:0, instance:test.LoginTest@477b4cdf]" started-at="2023-05-29T22:47:11 PDT" name="startUp" finished-at="2023-05-29T22:47:18 PDT" duration-ms="7413" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method signature="loginToTechFios()[pri:0, instance:test.LoginTest@477b4cdf]" started-at="2023-05-29T22:47:18 PDT" name="loginToTechFios" finished-at="2023-05-29T22:47:19 PDT" duration-ms="277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToTechFios -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.LoginTest@477b4cdf]" started-at="2023-05-29T22:47:19 PDT" name="tearDown" finished-at="2023-05-29T22:47:21 PDT" duration-ms="2589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
